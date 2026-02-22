@@ -1,4 +1,3 @@
-# Identifying-Profit-Drivers-Hidden-Losses-Power-BI-Dashboard-
 In this project, I analyzed U.S. superstore sales data to uncover trends in revenue, profit, customer behavior, and manager performance. The goal was to transform raw sales data into actionable insights that support strategic business decisions.
 
 ## Project Overview
